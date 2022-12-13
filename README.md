@@ -11,5 +11,5 @@ https://discord.gg/PHBX53jcSn
 
 ## IMPORTANT
 
-Don't forget to edit **config.lua**
+Don't forget to edit **config.lua**\n
 Don't forget to run the **daily.sql** to work properly
