@@ -6,9 +6,10 @@ https://discord.gg/PHBX53jcSn
 
 ## DEPENDENCIES
 
-[qb-core](https://github.com/qbcore-framework/qb-core)
-[qb-target](https://github.com/qbcore-framework/qb-target)
+* [qb-core](https://github.com/qbcore-framework/qb-core)
+* [qb-target](https://github.com/qbcore-framework/qb-target)
 
 ## IMPORTANT
 
-Don't forget to edit **config.lua** and don't forget to run the **daily.sql** to work properly.
+- Don't forget to edit **config.lua** 
+- Don't forget to run the **daily.sql** to work properly.
